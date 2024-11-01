@@ -50,7 +50,7 @@ The app is being under maintenance, as more work needs to be done.
 
 ```bash
 #1. clone this project
-~ git clone https://github.com/lgope/fashion-clothing.git
+~ git clone https://github.com/BrightSmile-911/fashion-clothing-using-React.git
 #2. cd into it
 ~ cd crwn-clothing
 #3. install serevr dependencies
